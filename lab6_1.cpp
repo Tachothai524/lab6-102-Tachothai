@@ -19,7 +19,6 @@ int main(){
     if(x == 0){
         i = i - 1;
     }
-    
 }
     cout << "#Even numbers = " << i << "\n" ;
     cout << "#Odd numbers = " << j ;
